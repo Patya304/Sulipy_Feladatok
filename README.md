@@ -1,1 +1,1 @@
-# Itt lesznek a https://sulipy.hu összes feladat megoldó kulcsa
+# Itt lesznek a https://sulipy.hu összes feladatának megoldásai
